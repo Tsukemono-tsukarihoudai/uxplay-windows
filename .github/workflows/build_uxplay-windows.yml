@@ -70,6 +70,7 @@ jobs:
           cp -r /mingw64/lib/gstreamer-1.0 lib/gstreamer-1.0
           cp -r /mingw64/bin bin
           cp ../uxplay.exe bin
+          cp /c/Program\ Files/Bonjour\ SDK/Lib/x64/dnssd.dll bin/dnssd.dll
 
         # remove unnecessary DLLs so we get a smaller installer
       - name: Prune compilation artifact directory

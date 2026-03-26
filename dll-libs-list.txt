@@ -1,3 +1,4 @@
+D:\a\uxplay-windows\uxplay-windows\UxPlay\build\artifact\bin\dnssd.dll
 D:\a\uxplay-windows\uxplay-windows\UxPlay\build\artifact\bin\avcodec*
 D:\a\uxplay-windows\uxplay-windows\UxPlay\build\artifact\bin\avfilter*
 D:\a\uxplay-windows\uxplay-windows\UxPlay\build\artifact\bin\avformat*
